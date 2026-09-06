@@ -15,7 +15,7 @@ function App() {
     return (
         <div className="flex items-center justify-center h-screen">
             <div className="flex relative justify-center">
-                <div className="absolute font-bold text-2xl top-5">You've Been Leaked</div>
+                <div className="absolute font-bold text-2xl top-5">You've Been Leaked!</div>
                 <img src="./tusk.jpg" alt="tusk" className="w-md" />
             </div>
         </div>
